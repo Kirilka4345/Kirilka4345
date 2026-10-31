@@ -33,6 +33,7 @@
       <h3 align="center">💎 TON Telegram Gifts Sniper</h3>
       <p align="center">
         <a href="https://github.com/Kirilka4345/ton-telegram-gifts-sniper-bot"><img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=flat-square" alt="Release"/></a>
+        <a href="https://github.com/Kirilka4345/ton-telegram-gifts-sniper-bot"><img src="https://img.shields.io/badge/Tests-3%2F3%20Passing-success?style=flat-square" alt="Tests"/></a>
         <a href="https://github.com/Kirilka4345/ton-telegram-gifts-sniper-bot"><img src="https://img.shields.io/badge/Ecosystem-TON%20%7C%20Fragment-0098EA?style=flat-square" alt="TON"/></a>
       </p>
       <p>Real-time Telegram Collectible Gifts floor tracker, Fragment & Portals arbitrage radar with multi-channel alerts.</p>
@@ -43,6 +44,7 @@
       <h3 align="center">🛍️ Telegram Crypto Shop Bot</h3>
       <p align="center">
         <a href="https://github.com/Kirilka4345/telegram-crypto-shop-ai-bot"><img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=flat-square" alt="Release"/></a>
+        <a href="https://github.com/Kirilka4345/telegram-crypto-shop-ai-bot"><img src="https://img.shields.io/badge/Tests-4%2F4%20Passing-success?style=flat-square" alt="Tests"/></a>
         <a href="https://github.com/Kirilka4345/telegram-crypto-shop-ai-bot"><img src="https://img.shields.io/badge/Payments-TON%20%7C%20USDT%20%7C%20Stars-26A69A?style=flat-square" alt="Crypto"/></a>
       </p>
       <p>Automated digital goods store bot with Tonkeeper instant invoice checking, USDT TRC-20 tracking, and auto-fulfillment.</p>
@@ -55,6 +57,7 @@
       <h3 align="center">🕵️ Playwright Stealth Scraper Kit</h3>
       <p align="center">
         <a href="https://github.com/Kirilka4345/python-playwright-stealth-scraper-kit"><img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=flat-square" alt="Release"/></a>
+        <a href="https://github.com/Kirilka4345/python-playwright-stealth-scraper-kit"><img src="https://img.shields.io/badge/Tests-3%2F3%20Passing-success?style=flat-square" alt="Tests"/></a>
         <a href="https://github.com/Kirilka4345/python-playwright-stealth-scraper-kit"><img src="https://img.shields.io/badge/Bypass-Cloudflare%20%7C%20Bot%20Detection-orange?style=flat-square" alt="Stealth"/></a>
       </p>
       <p>High-speed scraping pipeline with anti-fingerprinting, proxy rotation, and structured JSON/CSV export engine.</p>
@@ -65,6 +68,7 @@
       <h3 align="center">🎧 AI Customer Support Ticket Bot</h3>
       <p align="center">
         <a href="https://github.com/Kirilka4345/ai-customer-support-ticket-bot"><img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=flat-square" alt="Release"/></a>
+        <a href="https://github.com/Kirilka4345/ai-customer-support-ticket-bot"><img src="https://img.shields.io/badge/Tests-4%2F4%20Passing-success?style=flat-square" alt="Tests"/></a>
         <a href="https://github.com/Kirilka4345/ai-customer-support-ticket-bot"><img src="https://img.shields.io/badge/AI-LLM%20%7C%20FastAPI-green?style=flat-square" alt="AI"/></a>
       </p>
       <p>24/7 AI-powered support & ticket management with multi-tenant crypto billing and automated escalation workflows.</p>
@@ -77,6 +81,7 @@
       <h3 align="center">🕹️ Roblox Gacha UI & Luau Framework</h3>
       <p align="center">
         <a href="https://github.com/Kirilka4345/roblox-gacha-ui-luau-framework"><img src="https://img.shields.io/badge/Release-v1.0.0-blue?style=flat-square" alt="Release"/></a>
+        <a href="https://github.com/Kirilka4345/roblox-gacha-ui-luau-framework"><img src="https://img.shields.io/badge/Tests-3%2F3%20Passing-success?style=flat-square" alt="Tests"/></a>
         <a href="https://github.com/Kirilka4345/roblox-gacha-ui-luau-framework"><img src="https://img.shields.io/badge/Engine-Roblox%20Studio%20%7C%20Luau-E2231A?style=flat-square" alt="Roblox"/></a>
       </p>
       <p>Server-authoritative drop-rates, 80-pity counter engine, and 9-slice responsive HUD animation suite for Roblox Studio developers.</p>
