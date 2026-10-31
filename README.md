@@ -14,6 +14,7 @@ This profile brings together development starters, desktop application projects 
 | [Luau weighted loot](https://github.com/Kirilka4345/roblox-gacha-ui-luau-framework) | Weighted selection and in-memory pity counters | Studio integration required |
 | [EyeClinicApp](https://github.com/Kirilka4345/EyeClinicApp) | C# / WPF clinic-management project | Development project |
 | [BakeryApp](https://github.com/Kirilka4345/BakeryApp) | WPF application archive and SQL schema | Development project |
+| [Roblox 3D & UI asset packs](https://kirilka4345.itch.io) | Modular Parts-only models, icons and free samplers on itch.io | Published assets |
 
 ## Open-source work
 
