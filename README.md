@@ -38,7 +38,10 @@
       </p>
       <p>Real-time Telegram Collectible Gifts floor tracker, Fragment & Portals arbitrage radar with multi-channel alerts.</p>
       <p><b>Stack:</b> Python, Asyncio, Toncenter RPC, Telegram Bot API</p>
-      <p align="right"><a href="https://github.com/Kirilka4345/ton-telegram-gifts-sniper-bot">Explore Repository &rarr;</a></p>
+      <p align="right">
+        <a href="https://kirillopen.gumroad.com/l/zkigy"><img src="https://img.shields.io/badge/Buy_on_Gumroad-$49-ff90e8?style=flat-square&logo=gumroad" alt="Gumroad"/></a>
+        <a href="https://github.com/Kirilka4345/ton-telegram-gifts-sniper-bot">Explore Repository &rarr;</a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">🛍️ Telegram Crypto Shop Bot</h3>
@@ -49,7 +52,10 @@
       </p>
       <p>Automated digital goods store bot with Tonkeeper instant invoice checking, USDT TRC-20 tracking, and auto-fulfillment.</p>
       <p><b>Stack:</b> Python, Aiogram 3.x, SQLite, Toncenter API</p>
-      <p align="right"><a href="https://github.com/Kirilka4345/telegram-crypto-shop-ai-bot">Explore Repository &rarr;</a></p>
+      <p align="right">
+        <a href="https://kirillopen.gumroad.com/l/gbxqtx"><img src="https://img.shields.io/badge/Buy_on_Gumroad-$39-ff90e8?style=flat-square&logo=gumroad" alt="Gumroad"/></a>
+        <a href="https://github.com/Kirilka4345/telegram-crypto-shop-ai-bot">Explore Repository &rarr;</a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -62,7 +68,10 @@
       </p>
       <p>High-speed scraping pipeline with anti-fingerprinting, proxy rotation, and structured JSON/CSV export engine.</p>
       <p><b>Stack:</b> Python, Playwright, Asyncio, Pandas</p>
-      <p align="right"><a href="https://github.com/Kirilka4345/python-playwright-stealth-scraper-kit">Explore Repository &rarr;</a></p>
+      <p align="right">
+        <a href="https://kirillopen.gumroad.com/l/xjajr"><img src="https://img.shields.io/badge/Buy_on_Gumroad-$29-ff90e8?style=flat-square&logo=gumroad" alt="Gumroad"/></a>
+        <a href="https://github.com/Kirilka4345/python-playwright-stealth-scraper-kit">Explore Repository &rarr;</a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">🎧 AI Customer Support Ticket Bot</h3>
@@ -73,7 +82,10 @@
       </p>
       <p>24/7 AI-powered support & ticket management with multi-tenant crypto billing and automated escalation workflows.</p>
       <p><b>Stack:</b> Python, FastAPI, Aiogram, OpenAI / Anthropic APIs</p>
-      <p align="right"><a href="https://github.com/Kirilka4345/ai-customer-support-ticket-bot">Explore Repository &rarr;</a></p>
+      <p align="right">
+        <a href="https://kirillopen.gumroad.com/l/mfpqo"><img src="https://img.shields.io/badge/Buy_on_Gumroad-$35-ff90e8?style=flat-square&logo=gumroad" alt="Gumroad"/></a>
+        <a href="https://github.com/Kirilka4345/ai-customer-support-ticket-bot">Explore Repository &rarr;</a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -86,7 +98,10 @@
       </p>
       <p>Server-authoritative drop-rates, 80-pity counter engine, and 9-slice responsive HUD animation suite for Roblox Studio developers.</p>
       <p><b>Stack:</b> Luau, Roblox Studio, TweenService, ReplicatedStorage</p>
-      <p align="right"><a href="https://github.com/Kirilka4345/roblox-gacha-ui-luau-framework">Explore Repository &rarr;</a></p>
+      <p align="right">
+        <a href="https://kirillopen.gumroad.com/l/vyybyp"><img src="https://img.shields.io/badge/Buy_on_Gumroad-$19-ff90e8?style=flat-square&logo=gumroad" alt="Gumroad"/></a>
+        <a href="https://github.com/Kirilka4345/roblox-gacha-ui-luau-framework">Explore Repository &rarr;</a>
+      </p>
     </td>
   </tr>
 </table>
@@ -116,6 +131,6 @@ If my open-source software, scripts, or bot packages saved you time, you can sup
 
 <br/>
 
-🎮 **Digital Storefront**: [kirilka4345.itch.io](https://kirilka4345.itch.io)
+🛍️ **Commercial Software Store**: [kirillopen.gumroad.com](https://kirillopen.gumroad.com) · 🎮 **Digital Assets**: [kirilka4345.itch.io](https://kirilka4345.itch.io)
 
 </div>
