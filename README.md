@@ -27,6 +27,8 @@
 
 ### 📦 Production Open-Source Projects
 
+> 🎁 **All-in-One Commercial Developer Suite (5 Templates Bundle):** Get the complete production suite — Playwright Stealth Scraper, Telegram Crypto Shop, Support Bot, Gifts Sniper & Roblox Framework ( individual value) for **** (54% off): 👉 **[Buy All-in-One Suite on Gumroad ()](https://kirillopen.gumroad.com/l/fuuczf)**
+
 <table>
   <tr>
     <td width="50%">
